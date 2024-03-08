@@ -39,8 +39,10 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ## Program
 ```
-pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
+Developed By: Manoj Guna Sundar Tella.
+Reg No: 212221240026.
 
+pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
 import warnings ; warnings.filterwarnings('ignore')
 import gym, gym_walk
 import numpy as np
