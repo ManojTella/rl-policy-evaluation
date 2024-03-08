@@ -32,9 +32,10 @@ For example, if the agent is in state S and takes the "R" action, then there is 
 ## Rewards
 The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states.
 ## Graphical Representation
-![output](https://github.com/Saibandhavi75/rl-policy-evaluation/blob/main/2.png?raw=true)
+![image](https://github.com/ManojTella/rl-policy-evaluation/assets/94883876/503b1e64-7ccd-4251-ad5c-b7eb51240270)
 ## POLICY EVALUATION FUNCTION
-![output](https://github.com/Saibandhavi75/rl-policy-evaluation/blob/main/2..png?raw=true)
+![image](https://github.com/ManojTella/rl-policy-evaluation/assets/94883876/20540e42-0a2f-4df3-af4a-abb1fde39aad)
+
 
 ## Program
 ```
