@@ -192,7 +192,8 @@ else:
 ## Comparision:
 ![image](https://github.com/ManojTella/rl-policy-evaluation/assets/94883876/add55438-55dd-41dc-a937-c20ae7035a98)
 ## Conclusion:
-![image](https://github.com/ManojTella/rl-policy-evaluation/assets/94883876/0ed49726-908d-4fb2-9163-cd7dfb4b6f9c)
+![image](https://github.com/ManojTella/rl-policy-evaluation/assets/94883876/401fe25d-7336-4efd-9559-32977e8cfdae)
+
 ## RESULT:
 Thus, a Python program is developed to evaluate the given policy.
 
